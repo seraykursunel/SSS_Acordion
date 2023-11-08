@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: rgb(219, 242, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(219, 242, 255, 1) 0%,
+    rgba(37, 100, 156, 1) 100%
+  );
+  padding: 50px;
+  border-radius: 1rem;
+  margin: 50px;
+}
+
+h1 {
+  margin-top: -20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h3 {
+  display: inline-block;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.card {
+  background-color: #dbf2ff;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 1rem;
+}
+
+button {
+  float: right;
+  margin-top: 15px;
+  margin-right: 10px;
+  background-color: white;
+}
